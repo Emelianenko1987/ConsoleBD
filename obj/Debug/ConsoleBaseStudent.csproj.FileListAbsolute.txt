@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\bin\Debug\StudentsBase.mdf
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\bin\Debug\StudentsBase_log.ldf
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.exe.config
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.exe
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.pdb
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.exe
+C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.pdb
