@@ -17,7 +17,7 @@ namespace ConsoleBaseStudent
         private static SqlConnection sqlConnection = null;
         static void Main(string[] args)
         {
-            #region Подключение
+            #region Подключение и открытие
             sqlConnection = new SqlConnection(connectingString);
             sqlConnection.Open();
             Console.WriteLine("Приветствую в Базе Студентов");
@@ -58,7 +58,7 @@ namespace ConsoleBaseStudent
                             Console.WriteLine($"{sqlReader["Id"]} {sqlReader["FIO"]}" + $"{sqlReader["Birthday"]}"
                                 + $"{sqlReader["Univercity"]}" + $"{sqlReader["Group_cource"]}" + $"{sqlReader["Cource"]}"
                                 + $"{sqlReader["Average_score"]}");
-                            Console.WriteLine(new string('-',30));
+                            Console.WriteLine(new string('-',60));
 
                         }
                         if (sqlReader != null)

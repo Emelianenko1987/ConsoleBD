@@ -8,3 +8,13 @@ C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.
 C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.exe
 C:\Users\User\Desktop\VS\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.pdb
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\bin\Debug\StudentsBase.mdf
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\bin\Debug\StudentsBase_log.ldf
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.exe.config
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.exe
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\bin\Debug\ConsoleBaseStudent.pdb
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.exe
+C:\Users\Admin\Desktop\ProJect\ConsoleBaseStudent\obj\Debug\ConsoleBaseStudent.pdb
